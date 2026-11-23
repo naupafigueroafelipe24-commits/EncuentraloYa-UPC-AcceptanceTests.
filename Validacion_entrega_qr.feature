@@ -16,11 +16,6 @@ Característica: Validación de propiedad y entrega con código QR
     Entonces la solicitud queda enviada a revisión del personal de custodia
 
 
-  # US06
-  Esquema del escenario: Aprobación o rechazo de solicitud por custodia
-    Dado que existe una solicitud de reclamo pendiente de revisión
-    Cuando el personal de custodia revisa las respuestas y la <decision>
-    Entonces el sistema <resultado>
 
 
     Ejemplos:
